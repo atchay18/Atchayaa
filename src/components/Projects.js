@@ -46,7 +46,7 @@ class Projects extends React.Component {
           "A small JS library that helps with clear and succinct data presentation.",
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/atchay18/Portfolio.js",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
+        open: "https://github.com/atchay18/Portfolio.js",
         image: "/assets/portfolio.png"
       },
     };
@@ -93,7 +93,7 @@ class Projects extends React.Component {
        // link: "https://github.com/gazijarin/stonehenge",
        // open: ""
       //}
-    //};
+    };
 
     return (
       <div id="projects">
